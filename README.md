@@ -29,6 +29,6 @@ Segue abaixo modelo para utilização ods ícones lembrando que **o texto que ac
     <td valign="top">
       Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o 
       <a href="https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master">Repositório Central de Referências Bibliográficas</a>
-    </td>.
+    </td>
   </tr>
 </table>
