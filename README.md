@@ -8,7 +8,7 @@ Localizados na pasta [Gestão do Conhecimento]().
 
 |**Ícone**|**Descrição**|
 |:---:|:---|
-|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>**Atenção**|Esse ícone será utilizado quando algo de muito importante deva ser ressaltado. Leia com atenção o que estiver indicado com esse ícone.|
+|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>**Atenção**|Esse ícone será utilizado quando algo de muito importante deva ser ressaltado. Leia com atenção o que estiver indicado com esse ícone.|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>**Definição**|Esse ícone será utilizado sempre que formos introduzir uma definição, um conceito ou um enunciado que explica o significado de um termo ou expressão.|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>**Não cometa<br>erros**|Cuidado com detalhes que podem fazer você cometer erros. Esses detalhes serão assinalados com esse ícone|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-duvidas.png?raw=true" heigh="80" width="80"><br>**Dúvida**|Dúvidas que permaneceram após as revisões ou dúvidas frequentes sobre os temas que estão sendo estudados serão assinalados com esse ícone.|
