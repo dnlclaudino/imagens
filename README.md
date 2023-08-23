@@ -4,7 +4,7 @@ Repositório público para imagens usadas em meus projetos
 
 ## Imagens para Gestão do conhecimento
 
-Localizados na pasta [Gestão do Conhecimento]().
+Localizados na pasta [Gestão do Conhecimento](https://github.com/dnlclaudino/imagens/tree/master/gestao-do-conhecimento).
 
 |**Ícone**|**Descrição**|
 |:---:|:---|
