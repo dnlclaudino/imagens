@@ -14,9 +14,10 @@ Localizados na pasta [Gestão do Conhecimento](https://github.com/dnlclaudino/im
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-duvidas.png?raw=true" heigh="80" width="80"><br>**Dúvida**|Dúvidas que permaneceram após as revisões ou dúvidas frequentes sobre os temas que estão sendo estudados serão assinalados com esse ícone.|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>**Verifique**|Existe algo que deve passar por uma verificação antes de prosseguir. Lembre-se do que verificar sempre que ver esse ícone|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>**Lembre-se**|Quando você vir esse ícone, estará diante de conselhos que podem ajudar a esclarecer ou destacar um ponto relevante.|
-|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-questao-de-prova.png?raw=true" heigh="80" width="80"><br>**Questão de Prova**|Quando você vir esse ícone, estará diante de uma possível **Questão de prova** de concursos, disciplinas, etc. Créditos da imagem para <a href="https://www.flaticon.com/br/icones-gratis/exame" title="exame ícones">Exame ícones criados por Hasymi - Flaticon</a>.|
-|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-jurisprudencia.png?raw=true" heigh="80" width="80"><br>**Jurisprudência**|Créditos da imagem <a href="https://www.flaticon.com/br/icones-gratis/jurisprudencia" title="jurisprudência ícones">Jurisprudência ícones criados por gravisio - Flaticon</a>.|
-|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-sumula-tribunal.png?raw=true" heigh="80" width="80"><br>**Súmula STF/STJ/TST/TSE**|Créditos da imagem <a href="https://www.flaticon.com/br/icones-gratis/lei" title="lei ícones">Lei ícones criados por Freepik - Flaticon</a>.|
+|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80"><br>**Exemplo(s)**|Quando você vir esse ícone, estará diante exemplos para facilitar a compreensão do assunto, tema ou tópico estudado.|
+|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-questao-de-prova.png?raw=true" heigh="80" width="80"><br>**Questão de Prova**|Quando você vir esse ícone, estará diante de uma possível **Questão de prova** de concursos, disciplinas, etc.|
+|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-jurisprudencia.png?raw=true" heigh="80" width="80"><br>**Jurisprudência**|Quando você vir esse ícone, estará diante de jurisprudências de tribunais.|
+|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-sumula-tribunal.png?raw=true" heigh="80" width="80"><br>**Súmula STF/STJ/TST/TSE/TJXX**|Quando você vir esse ícone, estará diante de súmulas de tribunais. (Obs: criar futuramente repositório de "comentários e exemplos das súmulas dos tribunais".)|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-sala-de-aula.png?raw=true" heigh="80" width="80"><br>**Sala de Aula**|Quando você vir esse ícone, estará diante de algo aprendido em sala de aula com professores da faculdade ou cursos para concursos que merece destaque.|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>**Reflexão**|Quando você vir esse ícone, estará diante de reflexões. Reflexões procuram ir além do conteúdo estudado e despertam questionamentos relevantes para o que se está aprendendo.|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-grande-pensador.png?raw=true" heigh="80" width="80"><br>**Grande Pensador(a)**|Quando você vir esse ícone, estará diante de um grande pensador(a) do tema ou fonte estudada(s).| 
@@ -38,3 +39,15 @@ Segue abaixo modelo para utilização ods ícones lembrando que **o texto que ac
     </td>
   </tr>
 </table>
+ 
+ ## Créditos adicionais
+
+Algumas imagens deste repositório possuem créditos de terceiros que procurei relacionar abaixo:
+
+ - Créditos das imagens:
+   - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Exemplo ícones criados por Freepik - Flaticon</a>
+   - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Exemplo ícones criados por kerismaker - Flaticon</a>
+   - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Exemplo ícones criados por Freepik - Flaticon</a>
+ - Créditos da imagem <a href="https://www.flaticon.com/br/icones-gratis/jurisprudencia" title="jurisprudência ícones">Jurisprudência ícones criados por gravisio - Flaticon</a>
+ - Créditos da imagem <a href="https://www.flaticon.com/br/icones-gratis/exame" title="exame ícones">Exame ícones criados por Hasymi - Flaticon</a>
+ - Créditos da imagem <a href="https://www.flaticon.com/br/icones-gratis/lei" title="lei ícones">Lei ícones criados por Freepik - Flaticon</a>
