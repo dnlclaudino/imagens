@@ -49,11 +49,8 @@ Segue abaixo modelo para utilização ods ícones lembrando que **o texto que ac
 
 Algumas imagens deste repositório possuem créditos de terceiros que procurei relacionar abaixo:
 
- - Créditos das imagens:
-   - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Exemplo ícones criados por Freepik - Flaticon</a>
-   - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Exemplo ícones criados por kerismaker - Flaticon</a>
-   - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Exemplo ícones criados por Freepik - Flaticon</a>
- - Créditos da imagem <a href="https://www.flaticon.com/br/icones-gratis/jurisprudencia" title="jurisprudência ícones">Jurisprudência ícones criados por gravisio - Flaticon</a>
- - Créditos da imagem <a href="https://www.flaticon.com/br/icones-gratis/exame" title="exame ícones">Exame ícones criados por Hasymi - Flaticon</a>
- - Créditos da imagem <a href="https://www.flaticon.com/br/icones-gratis/lei" title="lei ícones">Lei ícones criados por Freepik - Flaticon</a>
- - <a href="https://www.flaticon.com/br/icones-gratis/comente" title="comente ícones">Comente ícones criados por Freepik - Flaticon</a>
+ - Ícones:
+   - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Ícones criados por Freepik,  kerismaker, Hasymi, gravisio disponíveis no site Flaticon</a>
+- Quadros:
+  - (...)
+
