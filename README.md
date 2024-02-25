@@ -9,7 +9,8 @@ Localizados na pasta [Gestão do Conhecimento](https://github.com/dnlclaudino/im
 |**Ícone**|**Descrição**|
 |:---:|:---|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>**Atenção**|Esse ícone será utilizado quando algo de muito importante deva ser ressaltado. Leia com atenção o que estiver indicado com esse ícone.|
-|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>**Definição**|Esse ícone será utilizado sempre que formos introduzir uma definição, um conceito ou um enunciado que explica o significado de um termo ou expressão.|
+|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-conceito.png?raw=true" heigh="80" width="80"><br>**Conceito**|Esse ícone será utilizado sempre que formos introduzir um cenceito que será tratado nesta gestão do conhecimento com um enunciado que trará um primeiro contato intelectual com uma ideia, antes de ser elaborada uma definição.|
+|<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>**Definição**|Esse ícone será utilizado sempre que formos introduzir uma definição para uma ideia relacionada com a fonte ou repositório. Uma definição é uma atividade de encerramento, de conclusão, de compreensão de conceito(s) em que se apresenta normalmente um **gênero próximo** e uma **característica específica** que delimita adequadamente um ideia.|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>**Não Cometa<br>Erros**|Cuidado com detalhes que podem fazer você cometer erros. Esses detalhes serão assinalados com esse ícone|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-duvidas.png?raw=true" heigh="80" width="80"><br>**Dúvida**|Dúvidas que permaneceram após as revisões ou dúvidas frequentes sobre os temas que estão sendo estudados serão assinalados com esse ícone.|
 |<img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>**Verifique**|Existe algo que deve passar por uma verificação antes de prosseguir. Lembre-se do que verificar sempre que ver esse ícone|
@@ -43,18 +44,17 @@ Segue abaixo modelo para utilização ods ícones lembrando que **o texto que ac
        <b>Atenção</b>
     </td>
     <td valign="top">
-      Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o 
+      Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o
       <a href="https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master">Repositório Central de Referências Bibliográficas</a>
     </td>
   </tr>
 </table>
- 
- ## Créditos adicionais
+
+## Créditos adicionais
 
 Algumas imagens deste repositório possuem créditos de terceiros que procurei relacionar abaixo:
 
- - Ícones:
-   - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Ícones criados por Freepik,  kerismaker, Hasymi, gravisio disponíveis no site Flaticon</a>
+- Ícones:
+  - <a href="https://www.flaticon.com/br/icones-gratis/exemplo" title="exemplo ícones">Ícones criados por Freepik,  kerismaker, Hasymi, gravisio disponíveis no site Flaticon</a>
 - Quadros:
   - (...)
-
